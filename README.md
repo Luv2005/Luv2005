@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luv2005
+- 👋 Hi, I’m Luvv gupta
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...python projects
